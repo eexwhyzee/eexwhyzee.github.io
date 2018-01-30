@@ -5,6 +5,8 @@ tags:
 date: 2017-12-03
 comments: false
 ---
+
+<img src="/assets/img/me.jpg">
     
 What's up! My name is Minh and currently reside in the bay area.
 
